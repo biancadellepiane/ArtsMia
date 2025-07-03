@@ -35,5 +35,3 @@ class Model:
 
         #prendo i valori:
         #return componenteConnessa --> lista
-
-        #ciao
